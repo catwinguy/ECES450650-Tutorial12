@@ -2,7 +2,7 @@
 
 ## About Us
 
-Team Members: Zoe Sucato, Catherine Nguyen, Tobenna Oduah
+Team Members: Zoe Sucato, Catherine Nguyen, and Tobenna Oduah
 
 Organization: Drexel University
 
@@ -14,7 +14,7 @@ Last Updated: May 26, 2022
 
 In the [presentation](https://docs.google.com/presentation/d/1OATd0aiiLBT8dHkw8y5ogU3HX3HEDCAFWVoMfOvPLKo/edit?usp=sharing) included within this respository, we discussed MetaPhlAn and Humann, specifically their brief descriptions and how they work.
 
-## Tutorial Steps
+## Step-by-Step Instructions for Running MetaPhlAn
 
 1. First, git clone this repository onto your local machine.
 
