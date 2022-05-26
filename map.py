@@ -12,10 +12,6 @@ y = y[:5]
 print(x)
 print(y)
 
-
-# plt.plot(x, y)
-# plt.show()
-
 import pandas as pd
 
 df = pd.DataFrame({'species': x,
